@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Greetings, everyone!" 👋<br> My name is Faizan Javed. I am a student of Software engineering at Fast Nuces.<br> I have recently completed my 6 semesters. Currently, I am pursuing Mern stack development. <br> With nearly a year of hands-on experience in MERN stack development, I have successfully delivered a diverse range of projects.<br> I am determined to pursue MERN stack development as a core focus in my future endeavors. 
+"Greetings, everyone!" 👋<br> My name is Faizan Javed. I am a student of Software engineering at Fast Nuces.<br> I have recently completed my 6 semesters. Currently, I am pursuing Mern stack development. <br> With nearly a year of hands-on experience in MERN stack development, I have successfully delivered a diverse range of projects.<br> I am determined to pursue MERN stack development as a core focus in my future endeavors. <br>
 Here is a link to my Portfolio: https://sage-biscuit-4a2564.netlify.app/ 
 
 
