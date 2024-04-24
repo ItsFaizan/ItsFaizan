@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Greetings, everyone!" 👋<br> My name is Faizan Javed. I am a student of Software engineering at Fast Nuces.<br> I have recently completed my 6 semesters. Currently, I am pursuing Mern stack development. <br> With nearly a year of hands-on experience in MERN stack development, I have successfully delivered a diverse range of projects.<br> I am determined to pursue MERN stack development as a core focus in my future endeavors. <br>
+"Greetings, everyone!" 👋<br> Hi, I'm Faizan Javed, a Final year Software Engineering student at FAST-NUCES Islamabad. Currently, I'm a Level 1 Frontend Web Developer on Fiverr and also working as Jr. Software Developer at 0xBase. My expertise lies in React and Next.js, and I'm on the path to becoming a full-stack developer. <br>
 Here is a link to my Portfolio: https://sage-biscuit-4a2564.netlify.app/ 
 
 
