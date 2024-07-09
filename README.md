@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Greetings, everyone!" 👋<br> Hi, I'm Faizan Javed, a Final year Software Engineering student at FAST-NUCES Islamabad. Currently, I'm a Level 1 Frontend Web Developer on Fiverr and also working as Jr. Software Developer at 0xBase. My expertise lies in React and Next.js, and I'm on the path to becoming a full-stack developer. <br>
+"Greetings, everyone!" 👋<br> Hi, I'm Faizan Javed, I have done Software Engineering from FAST-NUCES Islamabad. Currently, I'm a Level 1 Frontend Web Developer on Fiverr and also working as Jr. Software Developer at 0xBase. My expertise lies in React and Next.js, and I'm on the path to becoming a full-stack developer. <br>
 Here is a link to my Portfolio: https://faizanjaved.vercel.app/
 
 
